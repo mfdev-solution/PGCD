@@ -20,7 +20,7 @@
 
     }
     /*
-     * @param arry
+     * @param array
      * This function show the pgcd of n numbers
      */
     private static void afficherPGCD(int[] tab)
